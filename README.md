@@ -20,8 +20,8 @@ Here is an example config:
 {
   "mcpServers": {
     "notes": {
-      "command": "PATH TO ENVIRONMENT EX: (PATH-TO-MCP-PROJECT/.venv/bin/python)",
-      "args": ["PATH TO SERVER EX: PATH-TO-MCP-PROJECT/notes_mcp_server.py"]
+      "command": "PATH-TO-MCP-PROJECT/.venv/bin/python",
+      "args": ["PATH-TO-MCP-PROJECT/notes_mcp_server.py"]
     }
   }
 }
